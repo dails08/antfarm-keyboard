@@ -1,0 +1,5 @@
+name: fbml-env
+dependencies:
+- python=3
+- anaconda
+- scikit-learn
